@@ -1,14 +1,3 @@
----
-layout: post
-title:  "Neural Style Transfer"
-date:   2021-05-27
-excerpt: "NST 구현해보기"
-tag:
-- NST
-- Neural Style Transfer
-comments: true
----
-
 ### 신경망 스타일 전이
 
 말그대로 이미지의 스타일, 패턴을 다른이미지에 씌워준다.
