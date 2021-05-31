@@ -1,3 +1,6 @@
+필수
+	tensorflow 2.4.0에서 gpu 사용 가능해야됩니다.
+
 설명
 	content image를 style image의 style 처럼 바꿔주는 프로그램입니다.
 
