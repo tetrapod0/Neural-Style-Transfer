@@ -210,9 +210,9 @@ def run():
     end = time.time()
     print("Total time: {:.1f}".format(end-start))
 ```
-50번마다 이미지를 출력하기위해 50번을 한 epoch로 두었다.
+50epoch마다 이미지를 출력하기위해 50epoch을 한 iter로 두었다.
 
-100 epoch의 총 실행시간은 10분 가량 걸렸다.
+100 iter의 총 실행시간은 10분 가량 걸렸다.
 
 ![nst](https://user-images.githubusercontent.com/48349693/119796887-b8772800-bf14-11eb-9834-c61a342669a3.gif)
 
