@@ -48,7 +48,7 @@ import time
 from IPython import display
 ```
 
-### 전역변수(상수)
+### 전역상수
 ```python
 target_img_path = './밤3.jpg'
 style_img_path = './고흐1.jpg'
